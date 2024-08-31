@@ -1,6 +1,6 @@
 #-*-coding:utf-8-*-
 #!/usr/bin/python3
-#!/coding by It'z masum
+#!/coding by It'z MASUM 
 import os,zlib,time,sys
 from os import system as osRUB
 from os import system as cmd
