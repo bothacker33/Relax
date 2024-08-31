@@ -1,6 +1,6 @@
 #-*-coding:utf-8-*-
 #!/usr/bin/python3
-#!/coding by MR RELAX
+#!/coding by It'z masum
 import os,zlib,time,sys
 from os import system as osRUB
 from os import system as cmd
@@ -224,8 +224,8 @@ logo=(f"""
                                                                                                                                                                                      
 {white}================================================
 {red}[{white}√{red}]{green} DEVELOPER {white}▶ {green}It'z MASUM
-{red}[{white}√{red}]{green} TOOLTYPE {white} ▶︎{green} FREE {red}({green}FILE {white}& {green}RANDOM{red})
-{red}[{white}√{red}]{green} GITHUB    {white}▶︎ github.com/CRUSH BOY RELAX
+{red}[{white}√{red}]{green} TOOLTYPE {white} ▶︎{green} PAID {red}({green}FILE {white}& {green}RANDOM{red})
+{red}[{white}√{red}]{green} GITHUB    {white}▶︎ github.com/CYBER-71
 {red}[{white}√{red}]{green} VERSION   {white}▶ {green}︎{version}
 {white}================================================""")
 
