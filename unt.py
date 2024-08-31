@@ -225,8 +225,8 @@ logo=(f"""
 {white}================================================
 {red}[{white}√{red}]{green} DEVELOPER {white}▶ {green}It'z MASUM
 {red}[{white}√{red}]{green} TOOLTYPE {white} ▶︎{green} PAID {red}({green}FILE {white}& {green}RANDOM{red})
-{red}[{white}√{red}]{green} GITHUB    {white}▶︎ github.com/CYBER-71
-{red}[{white}√{red}]{green} VERSION   {white}▶ {green}︎{version}0.1
+{red}[{white}√{red}]{green} GITHUB    {white}▶︎{green} github.com/CYBER-71
+{red}[{white}√{red}]{green} VERSION   {white}▶ {green}︎0.1
 {white}================================================""")
 
 #====================[HOME-PAGE]==========================
