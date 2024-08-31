@@ -223,7 +223,7 @@ logo=(f"""
    ░        ░  ░    ░  ░     ░  ░ ░    ░     
                                                                                                                                                                                      
 {white}================================================
-{red}[{white}√{red}]{green} DEVELOPER {white}▶ {green}︎MR RELAX
+{red}[{white}√{red}]{green} DEVELOPER {white}▶ {green}It'z MASUM
 {red}[{white}√{red}]{green} TOOLTYPE {white} ▶︎{green} FREE {red}({green}FILE {white}& {green}RANDOM{red})
 {red}[{white}√{red}]{green} GITHUB    {white}▶︎ github.com/CRUSH BOY RELAX
 {red}[{white}√{red}]{green} VERSION   {white}▶ {green}︎{version}
