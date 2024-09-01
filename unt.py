@@ -226,7 +226,7 @@ logo=(f"""
 {red}[{white}√{red}]{green} DEVELOPER {white}▶ {green}It'z MASUM
 {red}[{white}√{red}]{green} TOOLTYPE {white} ▶︎{green} PAID {red}({green}FILE {white}& {green}RANDOM{red})
 {red}[{white}√{red}]{green} GITHUB    {white}▶︎{green} github.com/CYBER-71
-{red}[{white}√{red}]{green} VERSION   {white}▶ {green}︎0.1
+{red}[{white}√{red}]{green} VERSION   {white}▶ {green}︎0.2
 {white}================================================""")
 
 #====================[HOME-PAGE]==========================
@@ -1058,7 +1058,8 @@ def __MTDONE6__(ids,names,passlist,tl):
                 "fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler",
                 "api_key": "882a8490361da98702bf97a021ddc14d"}
             head = {
-                'User-Agent': '[FBAN/FB4A;FBAV/'+str(random.randint(11,99))+'.0.0.'+str(random.randint(1111,9999))+';FBBV/'+str(random.randint(1111111,9999999))+';'f'{F6}',
+                'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+',
                 'Content-Type': 'application/x-www-form-urlencoded',
                 'Host': 'gra'+'ph.facebook.com',
                 'X-FB-Net-HNI': str(random.randint(20000, 40000)),
@@ -1145,7 +1146,8 @@ def randm(ids,psd,tl):
             'X-FB-Connection-Type':'unknown',
             'X-FB-connection-quality':'EXCELLENT',
             "X-Tigon-Is-Retry": "False",
-            'User-Agent': '[FBAN/FB4A;FBAV/'+str(random.randint(11,99))+'.0.0.'+str(random.randint(1111,9999))+';FBBV/'+str(random.randint(1111111,9999999))+';{R1}',
+            'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+',
             "X-FB-connection-token": "d29d67d37eca387482a8a5b740f84f62",
             'Accept-Encoding':'gzip, deflate',
             'Content-Type': 'application/x-www-form-urlencoded',
